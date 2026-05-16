@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root {
+  --md-typescale-base-font: 'Roboto Mono';
+  --md-code-font: 'Roboto Mono';
+}
+
+body, h1, h2, h3, h4, h5, h6, p, button, input, textarea, select {font-family: 'Roboto Mono', monospace
+ 
+}
+
+code, pre {
+  font-family: 'Roboto Mono', monospace;
+}
+
+/* Adattamenti per readabilità */
+body {
+  font-size: 0.75rem;
+  line-height: 1.3;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.1rem; }
