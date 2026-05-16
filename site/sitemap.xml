@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/Documentazione/</loc>
+         <loc>https://alesdreams.github.io/PianoPianoDesk/Documentazione/</loc>
          <lastmod>2026-05-16</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Errori%20leap/</loc>
+         <loc>https://alesdreams.github.io/PianoPianoDesk/Errori%20leap/</loc>
          <lastmod>2026-05-16</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Interactive%20Sound/</loc>
+         <loc>https://alesdreams.github.io/PianoPianoDesk/Interactive%20Sound/</loc>
          <lastmod>2026-05-16</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/leap%20e%20arduino/</loc>
+         <loc>https://alesdreams.github.io/PianoPianoDesk/leap%20e%20arduino/</loc>
          <lastmod>2026-05-16</lastmod>
     </url>
 </urlset>
