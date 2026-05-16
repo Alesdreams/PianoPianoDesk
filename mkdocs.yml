@@ -1,0 +1,38 @@
+site_name: Documentazione Piano 49660
+site_url: https://mydomain.org/mysite
+#Site description (Documentazione per il progetto)
+theme:
+  name: material
+  logo: immagini/icona00.png
+  palette: 
+    
+    - scheme: slate
+      primary: deep purple
+      accent: magenta
+      toggle:
+        icon: material/brightness-4
+        name: Passa al tema chiaro
+        
+    - scheme: default
+      primary: deep purple
+      accent: magenta
+      toggle:
+        icon: material/brightness-7
+        name: Passa al tema scuro
+
+extra_css:
+  - 'assets/css/fonts.css'
+  - 'assets/css/cookie-banner.css'
+
+extra_javascript:
+  - 'assets/js/cookie-banner.js'
+
+nav:
+  - Documentazione: 
+      - Principale: Documentazione.md
+      - Square Grid-Leap e Arduino:
+          - Guida Principale: leap e arduino.md
+          - Errori: Errori leap.md
+      - Interactive Sound: Interactive Sound.md
+      
+     
